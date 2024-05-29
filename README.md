@@ -1,2 +1,2 @@
-# supermercado.gihub.io
-Aplicativo_supermercado
+# GeraCartaz
+Aplicativo para gerar cartazes de supermercados
